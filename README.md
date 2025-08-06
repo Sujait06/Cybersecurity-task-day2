@@ -51,7 +51,7 @@ Phishing Email Analysis
 
 ## Files Included
 
-- `SUJAIT_S_R_win_$200_email_sample.txt` – Raw email content extracted from `.eml`
+- `SUJAIT_S_R_win_$200_email_sample.eml` – Raw email content extracted from Gmail.
 - 'Screenshots' of email header analyer and virustool
 
 ---
