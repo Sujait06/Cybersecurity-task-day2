@@ -43,15 +43,16 @@ Phishing Email Analysis
 
 ##  Tools Used
 
-- 📬 Manual analysis of `.eml` content (email body + headers)
-- 🔗 [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
-- 🔒 [VirusTotal](https://virustotal.com) (used to check URLs if needed)
+-  Manual analysis of `.eml` content (email body + headers)
+-  [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+-  [VirusTotal](https://virustotal.com) (used to check URLs if needed)
 
 ---
 
 ## Files Included
 
 - `SUJAIT_S_R_win_$200_email_sample.txt` – Raw email content extracted from `.eml`
+- 'Screenshots' of email header analyer and virustool
 
 ---
 
@@ -62,5 +63,5 @@ Although the email appears to be a **legitimate marketing survey**, it contains 
 - Generic marketing tone
 - Potentially spoofed sender domains
 
-⚠️ This kind of email should be flagged and reported if unsolicited.
+ This kind of email should be flagged and reported if unsolicited.
 
